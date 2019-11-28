@@ -6,7 +6,7 @@
 package exemplocomputer;
 
 /**
- *
+ *Se crea una clase llamada Mouse, con su atributo Mouse
  * @author orlan
  */
 public class Mouse {
