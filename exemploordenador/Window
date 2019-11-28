@@ -6,7 +6,7 @@
 package exemplocomputer;
 
 /**
- *
+ *Se crea una clase llamada Window, con los atributos respectivos.
  * @author orlan
  */
 public class Window {
