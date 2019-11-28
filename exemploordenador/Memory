@@ -6,7 +6,7 @@
 package exemplocomputer;
 
 /**
- * Se crea una clase llamada Computadora, con sus atributos asociados con las clases secundarias.
+ * Se crea una clase llamada Memory, con sus atributos Speed y Memory
  * @author orlan
  */
 public class Memory {
